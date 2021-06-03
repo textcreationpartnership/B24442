@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble addresses of several close prisoners in the Gatehouse, Westminster to the King's Majesty and Council, to the Lord High Chancelor and Lord Chief Justice, and judges of the Kings Bench to manifest their innocency and to obtain their liberty together, with a relation of their illegal, cruel and hard wage under many weeks of confinement.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24442</idno><idno type="EEBO-CITATION">19570926</idno>
+  <idno type="VID">205556</idno>
+  <idno type="EEBO-PROQUEST">2240855837</idno>
+  
+            <idno type="STC">Wing H3392A</idno>
+            <idno type="OCLC">19570926</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1690:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble addresses of several close prisoners in the Gatehouse, Westminster to the King's Majesty and Council, to the Lord High Chancelor and Lord Chief Justice, and judges of the Kings Bench to manifest their innocency and to obtain their liberty together, with a relation of their illegal, cruel and hard wage under many weeks of confinement.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisoners --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205556:1"/>
+            <pb facs="tcp:205556:1"/>
+            <p>THE HUMBLE ADDRESES OF SEVERAL Close Prisoners IN THE GATEHOUSE, <hi>WESTMINSTER;</hi> TO THE KING'S MAJESTY and COUNCIL, TO THE LORD HIGH CHANCELOR, And the LORD CHIEF JUSTICE, and JUDGES of the <hi>Kings Bench;</hi> to manifest their Innocency, and to ob<g ref="char:EOLhyphen"/>tain their Liberty.</p>
+            <p>Together, with a RELATION of their <hi>Illegal, Cruel</hi> and <hi>Hard Ʋsage,</hi> under many weeks Confinement.</p>
+            <q>
+               <bibl>
+                  <hi>Psal 37.12, 13.</hi>
+               </bibl>
+               <p>The Wicked plotteth against the Just, and gnasheth upon him with his teeth. The Lord shall laugh at him: for he seeth his day is coming.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Psal. 88.8, 9, 10.</hi>
+               </bibl>
+               <p>Thou hast put away mine Acquaintance far from me; — I am shut up, and I cannot come forth, &amp;c.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205556:2"/>
+            <pb n="3" facs="tcp:205556:2"/>
+            <head>The humble ADDRESSES of several close Prisoners in the <hi>Gate-house Westminster,</hi> to the <hi>Kings Majesty</hi> and <hi>Council,</hi> to the <hi>Lord high Chancelor,</hi> and the <hi>Lord chief Justice,</hi> and <hi>Judges</hi> of the <hi>Kings Bench;</hi> to manifest their Innocency, and to obtain their Liberty.</head>
+            <p>ALbeit out illegal Apprehending, and cruel close Detainor, administred to us and our families just occasion of Sor<g ref="char:EOLhyphen"/>row, yet that which aggravated our misery, was the odious Infamy cast upon us and our Relations, both in City and Country, as if we, amongst others, were Actors or Con<g ref="char:EOLhyphen"/>trivers of some <hi>horrid Plot,</hi> and being publickly aspersed as those who necessitated the loading the Nation which <hi>more Taxes,</hi> by which our Credits and Reputations were not a little wounded; and even our Friends in many places blaming our silence, as if we had neglected our humble Addresses to his Majesty, or Applications to the Honourable Judges of the Law, for the Vindication of our in<g ref="char:EOLhyphen"/>nocency and Fidelity; for whose better information and satisfa<g ref="char:EOLhyphen"/>ction we have caused our Proceedings to be published, whereby it may appear that the Circumstances of our Condition considered, there hath been no means left unattempted.</p>
+            <p>We shall forbear to mention the Addresses of our Wives apart to his Majesty and Council, taking no pleasure to remember how many weeks, some coming from far, and continuing here to no little charge, they attended the Council every day of their fitting, reaping no other benefit thereby to this day, than Order for some of them in the presence of the <hi>Keeper</hi> to see their Husbands; by converse with whom, being fully confirmed of what before they were not in the least suspicious, (<hi>viz.</hi> their Innocency and Integri<g ref="char:EOLhyphen"/>ty) were further encouraged to present their joynt Petition to his Majesty and Council, an followeth.</p>
+            <pb n="4" facs="tcp:205556:3"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Kings most excellent Majesty, and to the Lords of his Majesties most Honourable Privy Council.</head>
+                        <head type="sub">The humble Petition of the Wives of several Persons Close-Prisoners in the <hi>Gate-house.</hi>
+                        </head>
+                        <p>
+                           <hi>Humbly sheweth,</hi>
+                        </p>
+                        <p>THat your Petitioners Husbands were apprehended by Messen<g ref="char:EOLhyphen"/>gers at their own houses, about twelve weeks since, and car<g ref="char:EOLhyphen"/>ried to the <hi>Gate-house,</hi> where with all patience they have endured a close and chargeable Imprisonment, not knowing any Accuser or Accusation; nor can they by any means address themselves to this honourable Council, being denyed Pen, Ink and Paper: Some of your Petitioners, by Order, have obtained leave to visit them, and do finde that they are altogether ignorant of any Plot or Design against his Majesties Person or Government, and that if any thing of that nature be charged on them, they would be glad that they might be brought to a legal Tryal, that so their Innocency might be vindicated. And forasmuch as your Petitioners Husbands, for the most part, are very poor, having nothing left but their own In<g ref="char:EOLhyphen"/>dustry to maintain themselves and Families; and that as it hath been their Care, so we are confident shall be, to live peaceably un<g ref="char:EOLhyphen"/>der his Majesties Government.</p>
+                        <p>Therefore your Petitioners do most humbly pray, That your Majesty and this honourable Council would be pleased to grant your Petitioners Husbands their Liberty, or otherwise that they might be brought to a speedy Tryal according to Law, That so them and their Families may not utterly be destroyed, and that for the future they may have the Pro<g ref="char:EOLhyphen"/>tection of the Law, to encourage them to follow their Cal<g ref="char:EOLhyphen"/>lings. And your Petitioners shall pray, &amp;c.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Susanna Lytcott.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Alice Reade.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Mary Gladman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Anne Chassin.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sarah Wilkes.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Martha Kenwrick.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sarah Wansey.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Elizabeth Packer,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Jane Mason</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Susanna Newman.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="5" facs="tcp:205556:3"/>
+            <p>Which Petition being read, Answer was returned by one of the Clerks attending the Council, That a Committee would be ap<g ref="char:EOLhyphen"/>pointed to give their Husbands a speedy Dispatch, which caused their further constant attendance; but not hearing of any such Com<g ref="char:EOLhyphen"/>mittee, they about a month after humbly presented to several of the Lords, as they were going to sit in Council, the following <hi>Memo<g ref="char:EOLhyphen"/>rial.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <salute>Right Honourable,</salute>
+                        </opener>
+                        <p>
+                           <hi>BE pleased to Remember the sad and deplorable Condition of our Husbands, Close Prisoners in the</hi> Gate-house, <hi>presented by our Petition to his Majesty and Council about a month since; they having been near sixteen weeks under a severe Confinement, and not conscious of any Crime; So that except your Honours out of tender Compassion give a speedy Answer to our humble and just Desires, they and their Families must suffer inevitable Ruine.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And upon their attendance that Council-day, Answer was given, that nothing would be done at the Council, the business being re<g ref="char:EOLhyphen"/>ferred to the Lord Chief Justice; But hearing nothing further thereof, the Term also near the end, We did humbly conceive, by the advice of our Friends, it might be most satisfactory to his Ma<g ref="char:EOLhyphen"/>jesty, and expeditious for our selves, to be brought before his Lord<g ref="char:EOLhyphen"/>ship by the Writ of <hi>Habeas Corpus,</hi> which being sued forth and made Returnable immediatly, was also served upon the Keeper, Sir <hi>Edward Broughton,</hi> on Saturday the 8th of <hi>February</hi> 1661, our Solicitor having acquainted the Atturney General with this Pro<g ref="char:EOLhyphen"/>ceeding, desiring there might be no delay, but if any thing were against the Prisoners, the Court might be acquainted therewith up<g ref="char:EOLhyphen"/>on their appearing at the Bar, which they expected should be the Monday following, The Deputy-keepers having told them the VVrits would be obeyed, unless their Master, Sir <hi>Edw. Broughton,</hi> received Orders from the Secretary to the contrary; who notwith<g ref="char:EOLhyphen"/>standing disobeyed his Majesties VVrits, and injuriously broke his Promise with us, which lost our opportunity of taking out second Writs, and occasioned our humble Address to the Honourable the Judges by the following Letters presented to, and read by them, the Court sitting.</p>
+            <pb n="6" facs="tcp:205556:4"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable the Lord Chief Justice of the Kings-Bench at <hi>Westminster,</hi> these humbly present.</head>
+                        <p>MAy it please your Honour to be informed, That our selves and divers others within this Prison, have by our Wives and Friends petitioned and solicited his Majesty and Coun<g ref="char:EOLhyphen"/>cil these sixteen weeks and more to procure our Enlargement, but can neither obtain that, nor so much as knowledge wherefore we are committed, nor a Copy of our <hi>Mittimus;</hi> but were some few dayes since informed by a Clerk of the Council, that We and our Case were referred to your Lordship, the which hath invited our Friends to procure an <hi>Habeas Corpus</hi> to bring us this day before your Bar; but our Keeper, Sir <hi>Edward Broughton,</hi> having abused us, by exacting of Fees and Chamber-Rent, refuseth to bring us before your Lordship.</p>
+                        <p>VVe therefore humbly desire, that a Tipstast may be sent to morrow for such of us as have shewed out our <hi>Habeas Cor<g ref="char:EOLhyphen"/>pus,</hi> so that your Honour may not onely be informed of the cause of our close Imprisonment (the which we are ignorant of) but also the cruel usage we have and do daily suffer in our Persons, Estates, and Names, even to the Utter Ruine of some, and almost Undoing of the rest, as the inclosed Case of one of our number will more particularly manifest, who was forced thus to present it, fearing the Keeper will not bring him to your Bar with the rest. The truth of all which will be made good, if we shall have the happiness to be brought before your Lordship: which is the humble Petition and Desires of your Lordships most humble Servants.</p>
+                        <closer>
+                           <dateline>From the Gate-house <hi>Westminst.</hi>
+                              <date>
+                                 <hi>Febr.</hi> 11, 1661.</date>
+                           </dateline>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>William Kenwrick,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Mason,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Henry Wansey,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Leonard Lytcott,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Timothy Wilkes,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Newman,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Chassin.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="7" facs="tcp:205556:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Right Honourable the Lord Chief Justice of the Kings-Bench at <hi>Westminster,</hi> these humbly present.</head>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>UPon the <hi>26<seg rend="sup">th</seg>
+                     </hi> of <hi>October</hi> last, being in my Shop in <hi>Threed<g ref="char:EOLhyphen"/>needly-street, London,</hi> I was taken by Pursevants, or Mes<g ref="char:EOLhyphen"/>sengers, who said they had Order to carry me before one of the Se<g ref="char:EOLhyphen"/>cretaries of State at <hi>White-hall,</hi> to answer the breach of a Bond I had formerly given when discharged from my Imprisonment in the Tower of <hi>London;</hi> but they, without carrying me before the said Secretaries, or any other Magistrate, had me to Sir <hi>Edward Broughton</hi> the Keeper of the <hi>Gatehouse</hi> Prison, who said to me, <hi>You are my Prisoner, and to be kept close,</hi> I asked him by what Authority, and desired a sight and Copy of my Commitment: He read me the first line of the Warrant, and said, <hi>It was enough for me to know it was his Majesties pleasure I should be so kept.</hi> I then told him, that my Estate was taken from me, and but little left besides my Watch-making Trade to keep me alive, and that if I had my Tools and accommodation to work, I could both pay him my Chamber-rent, and maintain my self, and otherwayes I could not do it. Sir <hi>Edward Broughton</hi> then promised me upon his Ho<g ref="char:EOLhyphen"/>nour, that, except my Imprisonment, I should have all the Civility I could desire, and wished me to send my mind to Secretary. To which I replyed, Sir, how can I do that, which am immediately to be your close Prisoner? He then promised me to acquaint the Secre<g ref="char:EOLhyphen"/>tary <hi>Nicholas</hi> with my desires; Notwithstanding he sent me to lodge upon a very hard Flock-bed, much worse than are some Mats, where<g ref="char:EOLhyphen"/>on, after I had tyred my body for some nights, I desired but a Truss of Straw rather than such a Bed, and offered him payment for it, yet could not obtain the same; and because I could not comply with his exactions, to pay ten shillings a week for a Bed; twenty shillings for turning the Key; five shillings for use of a pair of Sheets; five shillings Garnish; and five pounds for Iron Fees, at nine dayes end (although in all that time neither Wife, Children, nor Friends were permitted to see or come near me) I was carried down two part of stairs into a very strait Room, not above two steps wide, without a fire-place, and there lockt up for ten dayes, not permitting me to
+<pb n="8" facs="tcp:205556:5"/>come forth to ease nature in fifteen or sixteen hours together; and often when I called for Ale, either the bottom of some old barrel, or Ale and Urine mingled, they brought me to drink, which after tasted by two Prisoners Wives, I was enforced to throw it away, and for divers dayes to drink fair Water: But at length when they un<g ref="char:EOLhyphen"/>derstood I was about to petition his Majesty for Relief, I was put into another Room for twelve dayes time, whose windows were sore broken, and no means by Glass, Paper, or otherwayes afforded to stop them, although daily promised; all which ill usage had so much di<g ref="char:EOLhyphen"/>stempered my body, that my life was thereby endangered; and be<g ref="char:EOLhyphen"/>cause I could not comply to answer their Exactions, I was often threatned to be put into the Hole, when as I had neither money to buy my self or family bread; and by their own defaults in keeping me without my Tools, I was disabled to pay the premises: And, to manifest their further cruelty, when as my Wife by Petition obtained his Majesties Order to have my Tools into the Prison, and be con<g ref="char:EOLhyphen"/>tinued in the Room I was then placed in for the better accommoda<g ref="char:EOLhyphen"/>tion of my Trade, Sir <hi>Edward Broughton,</hi> by his Deputy, took from my Children my Tools, not only depriving me of the use of them for these fifteen weeks past, but doth yet detain them in his hands, and will not restore them to my Wife or Children; so that herein by the Keeper I have suffered the losse of fifteen pounds that I could have gotten by my labour, and my Tools are of value near five pounds, which he hath in his hands or possession, and further demands seven shillings a week for a Bed, in a Room heretofore set but for seven groats, with the aforesaid Fees: whose due, and much more than the Law doth direct, for quietness sake I have often offered to pay, so as he would but restore my Goods, and give a Receipt under his hand, to manifest a full Discharge, (because 'tis usual to demand Chamber-rent there after it hath been once paid) or else refer him<g ref="char:EOLhyphen"/>self (as I desire) to any Magistrate that he shall chuse; But this my Keeper refuseth to agree to, and <hi>24</hi> dayes ago, notwithstanding the Kings Order, he caused my Bed, Bedding and Mats to be all taken from me, and refused to permit me have in a Bed of mine own, or so much as a Trusse of Straw to lodge on; and his Deputy the <hi>18th</hi> of <hi>February</hi> last openly said, <hi>That whereas all the close Pri<g ref="char:EOLhyphen"/>soners Wives had petitioned his Majesty, desiring their Husbands
+<pb n="9" facs="tcp:205556:5"/>Liberty, or that they might be brought to a speedy Tryal according to Law,</hi> he said, <hi>their Petition should be spoiled, and that Sir</hi> Ed<g ref="char:EOLhyphen"/>ward Broughton <hi>was gone to</hi> Whitehall <hi>for that purpose;</hi> and two dayes after they had taken from me my Bed, four of his Officers and Souldiers, his Deputy-turnkey, Attendants, and the very Tapster (being Souldiers) took me up, being upon a Mat I had procured to lodge on, and by force carried me out of my Room through the Gallery to a close Room in the remotest part of the house, called the <hi>Troploft,</hi> allowing me but the boards to lodge on for these twenty four nights past, nor would the Keeper permit my son to bring me a bolster of Straw, but doth threaten often to board up my Window, so as then I shall have no Air to breath in. My Lords, it was the Bishop of <hi>Worcester's</hi> good Counsel to his Majesty at his Corona<g ref="char:EOLhyphen"/>tion, <hi>A Prince should say, as</hi> Nehemiah, <hi>Should such a one as I, representing God in Greatness and Goodness, Rewarding such as do well, and punishing such as do evil; shall I do any thing that is mean, base, sinful, unjust, cruel, or dishonourable to Him whom I represent?</hi> Now, my Lords, shall you the Judges of the Law know those Cruelties to be exercised on me under his Majesties Go<g ref="char:EOLhyphen"/>vernment, and not relieve me? God forbid. Examine the truth of my Complaint: once I have Sworn; twice I have given Secu<g ref="char:EOLhyphen"/>rity; four times I have been Imprisoned by malicious Contrivances; I have my <hi>Habeas Corpus</hi> granted, but cannot be brought forth: I desire your Lordships to Release me, or Remove me from this wretched place of torment; And if I must be detained, after above fifteen weeks Imprisonment, not knowing any cause thereof, let me be dealt with as a Man, and used and provided for as the Kings Prisoner ought to be by Law during my Restraint. Which is all at present from your Lordships most humble oppressed Prisoner,</p>
+                  <closer>
+                     <dateline>
+                        <hi>From my close Captivity in the abominable Prison of the</hi> Gatehouse, Westminst. <date>Febr. <hi>11. 1661.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Henry Wansey.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>VVhich Letters being read by the Judges, the Lord chief Justice demanded who was the Presenter of then, and being owned by our
+<pb n="10" facs="tcp:205556:6"/>Friend, he also humbly prayed that his Lordship would be pleased to hear a Motion upon them: which being granted, Mr. Serjeant <hi>Bearmould</hi> seeing the said Keeper of the <hi>Gatehouse</hi> had not onely disobeyed the first Writ, but also an Order of Court made the day before for bringing the Prisoners to the Bar, under the penalty of forty pounds, That an Atachment might be granted against the said Keeper, or that the Prisoners might be brought before the Lord chief Justice (this being the last day of the Term) at his Chamber, that Bail might be put in before him there; but could not be ob<g ref="char:EOLhyphen"/>tained: But the Court did agree that it was fit to grant <hi>an aliis Habeas Corpus</hi> Returnable fifteen dayes after <hi>Easter,</hi> with a lusty Fine, because that <hi>Keeper</hi> usually disobeyeth the Orders of the Court; which was done occordingly, under the Penalty of 100 l. And the Prisoners doubting that their usage was like to be worse from their <hi>Keeper</hi> than before, by Mr. Serjeant <hi>Newdigate</hi> mo<g ref="char:EOLhyphen"/>ved the same day, That an Order might be made for their Soli<g ref="char:EOLhyphen"/>citors, Atturneys and Friends to come to them, and to allow them the liberty of the Prison-house: which was granted, as desired, and being traslated into English, is as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="decree">
+                        <opener>
+                           <dateline>
+                              <date>Wednesday eight dayes after the Purification of the blessed <hi>Mary,</hi> in the fourteenth year of King <hi>Charles</hi> the second, our Lord the King.</date>
+                           </dateline> Against the Keeper of the Prison of the <hi>Gate<g ref="char:EOLhyphen"/>house.</hi>
+                        </opener>
+                        <p>IT is Ordered, That the Keeper of the said Prison permit the Solicitors, Atturneys and Friends of <hi>William Kenwrick</hi> and the other Prisoners in his Custody, to come and speak with the aforesaid Prisoners; and to allow them the liberty of the Prison-house, upon the Motion of Mr. Serjeant <hi>Newdigate.</hi>
+                        </p>
+                        <closer>
+                           <signed>By the Court.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>VVhich said Order being the next day served on Sir <hi>Edward Broughton</hi> the Keeper, he seemed to yeeld obedience to it, afford<g ref="char:EOLhyphen"/>ing the benefit of it for one day; but by his Deputies the day fol<g ref="char:EOLhyphen"/>lowing exercised as much strictness as formerly, locking us up from the liberty of the house, denying our nearest Relations and Servants with necessaries access to us; our Solicitor also being then with
+<pb n="11" facs="tcp:205556:6"/>us, was uncivilly commanded away, and threatned to be made a Prisoner the ensuing morning: for all which, when we demanded a Reason, urging the Iudges Order to the contrary: they replyed, <hi>The Secretary would bear them out, and that the Keyes for locking us up in the day-time was their Order.</hi>
+            </p>
+            <p>Being thus, after all our Expences and Endeavours to be brought forth to Tryal, and for obtaining our Liberties, through the inju<g ref="char:EOLhyphen"/>rious dealing of our Keeper, and his high contempt of Authority, frustrated in our Expectations; and our taking this legal course af<g ref="char:EOLhyphen"/>ter other humble submissive means failed, made rather as an aggra<g ref="char:EOLhyphen"/>vation of a crime against us by our <hi>mercinary Keepers,</hi> who are all Souldiers in pay, and in their own esteem out of the reach of the Law; we were necessitated to represent our sad Condition to the Right Honourable the <hi>Lord High Chancelor,</hi> and to the Honour<g ref="char:EOLhyphen"/>able the <hi>Lord Chief Justice,</hi> and other the Iudges of the King's Bench, in these following Addresses.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable the Lord high Chancellor of <hi>England,</hi> these humbly present.</head>
+                        <p>MAy it please your Lordship, We take the boldness, being not a little oppressed, humbly to spread before your Lordship our Complaint, who have been kept (as we conceive) through mis<g ref="char:EOLhyphen"/>information four months <hi>Close Prisoners</hi> in the <hi>Gatehouse,</hi> and more severely dealt with than those taken in open Hostility, or guilty of the highest Treasons. And my Lord, to clear our selves, and make our Innocency appear, we have (by our VVives) used all imagi<g ref="char:EOLhyphen"/>nable submissive petitionary means to his Majesty and Council, who, through their weighty Affairs, neither admitted us a hearing, nor afforded us Relief, or so much as Answer; but only his Ma<g ref="char:EOLhyphen"/>jesties Secretary acquainted our VVives, that we and our Case were referred to my Lord Chief Iustice <hi>Foster,</hi> the which necessi<g ref="char:EOLhyphen"/>tated our Relations to endeavour by VVrit to bring us last Term to the Kings Bench Bar, that his Lordship and the whole Nation might publickly know that we are saithful, peaceable, and obedi<g ref="char:EOLhyphen"/>ent Subjects. But, my Lord, the VVrit being disobeyed by our Keeper Sir <hi>Edward Broughton,</hi> we have no means lest us to endea<g ref="char:EOLhyphen"/>vour
+<pb n="12" facs="tcp:205556:7"/>our enlargement till the next Term, save only by our Addresses to your Lordship, the <hi>Seat of Equity,</hi> being much encouraged thereunto by the <hi>Act of Indempnity</hi> and <hi>Oblivion,</hi> and your Ho<g ref="char:EOLhyphen"/>nours many favourable Speeches thereupon.</p>
+                        <p>Now forasmuch as we are innocent persons, and not guilty of the breach of any known Law, having been lately in like manner imprisoned (some of us three or four times) And that my Lord Chief Justice (to whom we apprehended our selves referred) is pre<g ref="char:EOLhyphen"/>vented at present (through the wilful and injurious neglect of Sir <hi>Edward Broughton</hi>) to afford us Relief, other than ordering us the legal favour of Converse with our Friends, and the liberty of the Prison-house to breath in; the which by our <hi>Keepers</hi> was after one day denyed us with more strictness than before.</p>
+                        <p>We therefore humbly pray, that your Lordship will in tender compassion represent our sad condition to his Majesty, minding his Majesty of his <hi>gracious Act of Indempnity,</hi> and mediating for our present Liberty and future Protection, so that sudden and speedy Destruction do not utterly ruine those, who through their many late great Losses and Imprisonments have hardly left wherewith to buy Bread. Thus craving your Honours charitable and favourable Aspect on our Condition, we are your Lordships most humble Servants.</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Febr.</hi> 15. 1661.</date>
+                           </dateline>
+                           <signed>William Kenwrick, Leonard Lytcott, Timothy Wilkes, John Mason, Henry Wansey, William Newman, John Chassin.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honorable the Lord Chief Justice, and other the Judges of the Kings-Bench, these humbly present.</head>
+                        <p>MY Lords, we cannot but with much thankfulness acknow<g ref="char:EOLhyphen"/>ledge your just Favour, upon our Motion made by Mr. Ser<g ref="char:EOLhyphen"/>jeant <hi>Newdigate</hi> upon the last day of the Term, ordering the Keeper to suffer our Solicitors, Atturneys, and Friends to come to us, and allowing us the liberty of the Prison-house after sixteen weeks close Imprisonment, in which time our Friends have been
+<pb n="13" facs="tcp:205556:7"/>detained from us, to our great Impoverishment and almost utter undoing; Only one day the Jaylor yeelded obedience to your Or<g ref="char:EOLhyphen"/>der, but the next day they pretended Order for our close Confine<g ref="char:EOLhyphen"/>ment, as formerly, which they put in practice, not shewing upon our demand any Order for the same. Might we but obtain leave to make our just Grievances known to your Lordships, we believe they are unparallel'd. Endeavours are used (as is privately intima<g ref="char:EOLhyphen"/>ted to us) to prevail with your Honour to make a new Rule, which if once done, will extend to a Confirmation of our close Imprison<g ref="char:EOLhyphen"/>ment, as if done by Law: this we are not easily induced to believe, that your Lordship should suffer our Bonds to be made stronger by any proceedings from that Court from whom we expect relief. Whilst we were preparing to present these few lines to your Lord<g ref="char:EOLhyphen"/>ships by our Solicitor, the Under-keeper forceth him from us, and ships by our Solicitor, the Under-keeper forceth him from us, and openly declared before witness, <hi>That your Lordship, with the rest of the Judges, denyed you made any such Order,</hi> although the So<g ref="char:EOLhyphen"/>licitor proved before his face he delivered it to Sir <hi>Edward Brough<g ref="char:EOLhyphen"/>ton;</hi> and the Under-keeper had confessed the day after the Term it was delivered to Sir <hi>Edward,</hi> and further said, <hi>he was as glad as if he had an hundred pound given him, it would not rejoyce him more than that we had such Liberty granted, as our freedom from close Imprisonment:</hi> Yet since our Servants are denyed to bring us necessaries, or to let us know whether our Wives and Children are dead or alive, some of them being very sick; The which usage doth not only increase the Afflictions of all our Relations, but much aggravate our own Sufferings, who are your Honours most humble Servants.</p>
+                        <closer>
+                           <dateline>From the Gate<g ref="char:EOLhyphen"/>house <hi>Westminst.</hi>
+                              <date>
+                                 <hi>Febr.</hi> 15. 1661.</date>
+                           </dateline>
+                           <signed>William Kenwrick, Leonard Lytcott, John Mason, Timothy Wilkes, Henry Wansey, William Newman, John Chaffin.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>It was our Intention to have inserted the Answer to these last Addresses, but hearing it was the design of some great persons, in<g ref="char:EOLhyphen"/>stead of making us Reparations, to send us to remore places, we
+<pb n="14" facs="tcp:205556:8"/>are disappointed; only our Friend that presented them, conceives the Lord Chancellor disapproved of this injurious dealing with his Majesties peaceable Subjects, and that the Judges discovered a purpose not to recede from the Order for taking off our close Im<g ref="char:EOLhyphen"/>prisonment, both in respect of the Justice and Legality thereof, and likewise, being granted the last day of the Term, it could not duly be altered; and until we see a better Order than this granted by his Majesties Judges in <hi>Westminster Hall</hi> to the contrary, we hope to be excused in our daily continuing to demand our Liberty therein allowed us, though the Insolency of those Souldiers (our Under-keepers) is such, as still to debar our Friends, Solicitors and Atturneys access to us, shewing us (when demanded) the <hi>Keyes</hi> for their Order; and, in a provoking manner, snatched a Pen out of the hand of one of our number, whilst writing our some part of our former <hi>Addresses;</hi> The benefit and supply of Pen, Ink and Paper being gained upon the Order for taking off our close Impri<g ref="char:EOLhyphen"/>sonment, and whereof we are unwilling (but by violence) to be de<g ref="char:EOLhyphen"/>prived; which we could little have expected from those hands, remembring that when we made known to them our purpose of endeavouring our Liberty this way, they not onely professed how glad they should be if we might attain it, but one of them brought us word that after the first Writ was served upon Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Broughton,</hi> he was sent from him to the Secretary, from whom (if his Master received not Orders to the contrary) we should be brought to the Bar; and both at that time, and former<g ref="char:EOLhyphen"/>ly, told us, his Master cared not if we were discharged, knowing where to find others to sill up his Prison.</p>
+            <p>Thus having in all Reality discharged our Conscience, and hum<g ref="char:EOLhyphen"/>bly endeavoured to manifest to his Majesty and Council, the Lord Chancellor, and the honourable Judges, our Innocency and Faith<g ref="char:EOLhyphen"/>fulness; and also, in part, the causless Sufferings of his Majesties peaceable and quiet Subjects, We shall in all Christian patience wait till the LORD in his Mercy shall graciously send Delive<g ref="char:EOLhyphen"/>rance, being encouraged both from his Word and Promises to hope and expect seasonable Supports; as also by the Experiences of some, our next Chamber-fellows, who have lain more than thir<g ref="char:EOLhyphen"/>teen
+<pb n="15" facs="tcp:205556:8"/>months Close Prisoners in this wretched <hi>House of bondage,</hi> under the threats and menaces of our Jaylors, having for some season worn very weighty Iron Chains on both legs day and night, and to this time knowing no more than we, either Accuser or Crime laid to their charge.</p>
+            <p>Yet if by the good Providence of God our happiness shall be made so great by some charitable hand, as to present this our suffering Condition to his Majesties view, with this assurance, That neither directly nor indirectly we have acted any thing against the present Government, but have lived in all peaceable submissi<g ref="char:EOLhyphen"/>on thereunto; As also, acquainting his Majesty the great dis<g ref="char:EOLhyphen"/>service done by those persons that make and continue Distinctions amongst his Majesties good Subjects, or endeavour to withdraw his Majesties Affections from them; we cannot then but hope his Majesty will no longer suffer us to be thus severely used, but will afford us Liberty and Protection according to our native Right, and the good old Laws of this <hi>Kingdom.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Febr.</hi> 20. 1661.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
